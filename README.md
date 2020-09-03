@@ -8,6 +8,7 @@
 - composer install
 - npm install
 - set config .env
+- php artisan migrate
 - php artisan db:seed
 - user: admin@gmail.com password: password
 
